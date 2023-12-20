@@ -8,7 +8,7 @@ import Link from 'next/link';
 import SocialIcons from './SocialIcons';
 //import styles from './qr-code-home.module.css';
 
-
+// this is for testing 
 
 const GenerateQRCode: FC = () => {
   const [url, setUrl] = useState<string>('');
